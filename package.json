@@ -1,0 +1,32 @@
+{
+  "name": "request-dump-server",
+  "version": "0.0.1",
+  "description": "dumps all request, logs to a file, sends an echo ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramanandapanda/request-dump-server.git"
+  },
+  "keywords": [
+    "request-dump-server",
+    "request",
+    "dump-server",
+    "echo",
+    "server",
+    "log",
+    "server"
+  ],
+  "author": "Ramananda Panda <ramanandapanda@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramanandapanda/request-dump-server/issues"
+  },
+  "homepage": "https://github.com/ramanandapanda/request-dump-server#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
